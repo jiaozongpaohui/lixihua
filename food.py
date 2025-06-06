@@ -98,6 +98,6 @@ if st.button('帮我选午餐'):
                '你中午想吃什么？',
                ['今日推荐：星艺荟塔斯汀'],
                label_visibility='hidden')
-    st.image('https://image.so.com/ai/large/view?end=60&id=18fa4e1e6093ae510835c4481e70427e&q=%E5%A1%94%E6%96%AF%E6%B1%80%E5%9B%BE%E7%89%87&tab=all&srcg=imglist_img')
+    st.image('https://image.so.com/ai/large/view?end=60&id=cb90f5f002829a27b4ae4175af2b89b0&q=%E5%A1%94%E6%96%AF%E6%B1%80%E5%9B%BE%E7%89%87JPG&tab=all&srcg=imglist_img')
 
 
